@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1069406017797",
+    "firebase_url": "https://tutoria-android-supera.firebaseio.com",
+    "project_id": "tutoria-android-supera",
+    "storage_bucket": "tutoria-android-supera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069406017797:android:46216f13cd9deb00",
+        "android_client_info": {
+          "package_name": "br.com.supera.blocodenotas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069406017797-9v057rtul7huvbejdosoen62trqvv0fs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.supera.blocodenotas",
+            "certificate_hash": "2164bee38f6f24cf6fb54a1e2a002e61f147ce59"
+          }
+        },
+        {
+          "client_id": "1069406017797-259f20800prt9206krbcqot7li6t3ee0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwxKLkEcsLrrVZU1583reBKnvByT-8Sp0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069406017797-259f20800prt9206krbcqot7li6t3ee0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
